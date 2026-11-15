@@ -11,3 +11,9 @@ Recommending where Data-Driven Developments (DDD) should invest $10M CAD in Vanc
 | Rental Market Survey | CMHC Housing Market Information Portal | https://www03.cmhc-schl.gc.ca/hmip-pimh/ | 12 November 2026 |
 
 **Attribution:** Data: Inside Airbnb, Vancouver, 15 June 2026, CC BY 4.0.
+
+## How to run it
+
+1. Open the notebook in Google Colab.
+2. Upload the data files (the ones downloaded from the links above) to the Colab session.
+3. Click **Runtime** → **Run all**.
